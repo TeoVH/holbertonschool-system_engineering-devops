@@ -23,4 +23,4 @@ Keep in mind that you will have 30 minutes to perform the exercise, you will get
 Similarly in a job interview, you should answer what the interviewer asked for, be careful about being too verbose - always ask the interviewer if going into details is necessary - speaking too much can play against you
 In this project, again, avoid going in details if not asked
 
-[Link to the proyect](https://imgur.com/gallery/08UzbWI)
+[Link to the proyect](https://imgur.com/a/08UzbWI)
